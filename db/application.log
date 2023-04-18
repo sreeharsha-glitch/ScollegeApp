@@ -1,0 +1,43 @@
+[2022-05-01T16:15:37.997] [INFO] default - Fetched notifications successfully
+[2022-05-01T16:15:40.243] [INFO] default - Fetched notifications successfully
+[2022-05-02T15:51:09.856] [INFO] default - Fetched notifications successfully
+[2022-05-02T17:42:15.808] [INFO] default - Fetched notifications successfully
+[2022-05-02T17:42:18.338] [INFO] default - Fetched notifications successfully
+[2022-05-02T21:25:55.303] [INFO] default - Server Started
+[2022-05-02T21:25:59.193] [INFO] default - Server Started
+[2022-05-02T21:26:01.900] [INFO] default - Server Started
+[2022-05-02T21:27:49.855] [INFO] default - New user registered.
+[2022-05-02T21:28:05.392] [INFO] default - User Logged In (seeker)
+[2022-05-02T21:28:08.495] [INFO] default - Student details returned
+[2022-05-02T21:28:11.446] [ERROR] default - API Error: Bad Request
+[2022-05-02T21:28:13.794] [INFO] default - No applications found for selected s_id
+[2022-05-02T21:28:22.991] [INFO] default - All scholarships returned
+[2022-05-02T21:28:27.035] [INFO] default - All notifications returned
+[2022-05-02T21:28:44.211] [INFO] default - Incorrect Password
+[2022-05-02T21:28:51.138] [INFO] default - Incorrect Password
+[2022-05-02T21:28:56.034] [INFO] default - Incorrect Password
+[2022-05-02T21:29:24.894] [INFO] default - New user registered.
+[2022-05-02T21:29:38.893] [INFO] default - User Logged In (ambassdor)
+[2022-05-02T21:29:40.214] [INFO] default - All events returned
+[2022-05-02T21:29:43.601] [INFO] default - Events returned
+[2022-05-02T21:29:47.034] [INFO] default - Events returned
+[2022-05-02T21:30:01.682] [INFO] default - New event created
+[2022-05-02T21:30:04.980] [INFO] default - All events returned
+[2022-05-02T21:30:07.128] [INFO] default - Events returned
+[2022-05-02T21:30:11.451] [INFO] default - All events returned
+[2022-05-02T21:30:12.367] [INFO] default - Events returned
+[2022-05-02T21:30:25.302] [INFO] default - User Logged In (clo)
+[2022-05-02T21:30:26.683] [INFO] default - Unverified students returned
+[2022-05-02T21:30:31.133] [INFO] default - Student verified
+[2022-05-02T21:30:35.516] [INFO] default - Student profile returned
+[2022-05-02T21:30:37.281] [INFO] default - Unverified students returned
+[2022-05-02T21:31:05.069] [INFO] default - Verified Students returned
+[2022-05-02T21:31:06.692] [INFO] default - Applications returned for selected s_id
+[2022-05-02T21:32:57.439] [INFO] default - Server Started
+[2022-05-02T21:33:08.111] [INFO] default - New user registered.
+[2022-05-02T21:33:23.247] [INFO] default - User Logged In (provider)
+[2022-05-02T21:33:24.141] [INFO] default - No applications found for selected p_id
+[2022-05-02T21:33:26.494] [INFO] default - No scholarships found
+[2022-05-02T21:33:44.288] [INFO] default - New scholarship created
+[2022-05-02T21:33:47.970] [INFO] default - Scholarships returned
+[2022-05-02T21:33:50.321] [INFO] default - No applications found for selected p_id
